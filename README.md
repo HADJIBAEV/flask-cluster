@@ -7,10 +7,12 @@
 
 ## Installation and usage of the project:
 ```
-    1) 
-```
-```
-    2) sudo docker-compose up --scale app=2 -d --build --force-recreate
+    1) docker-compose up -d 
 ```
 
-## Visit and start using: -  http://localhost 
+## Visit and start using:
+```
+    2) http://localhost
+```
+
+
